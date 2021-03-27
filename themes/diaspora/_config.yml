@@ -5,7 +5,7 @@ menu:
   #标签: /tags
   #归档: /archives 
   关于: /about
-  影视:https://www.mvcat.com/
+  影视:/
 
 # 是否显示目录
 TOC: false
@@ -46,7 +46,7 @@ hitokoto: true
 links:
     #facebook: /
     #twitter: /
-    github: https://github.com/Jeffrey-done
+    github: /
     #wechat: /img/logo.png
     email: mailto:jeffrey07541@gmial.com
   
